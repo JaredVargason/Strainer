@@ -6,7 +6,7 @@
 
 #include "public.sdk/source/vst/vsteditcontroller.h"
 
-namespace vargason::jaredfilter {
+namespace vargason::strainer {
 
 //------------------------------------------------------------------------
 //  StrainerController
@@ -46,4 +46,4 @@ protected:
 };
 
 //------------------------------------------------------------------------
-} // namespace vargason::jaredfilter
+} // namespace vargason::strainer

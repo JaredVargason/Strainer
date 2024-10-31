@@ -8,7 +8,7 @@
 
 using namespace Steinberg;
 
-namespace vargason::jaredfilter {
+namespace vargason::strainer {
 
 //------------------------------------------------------------------------
 // StrainerController Implementation
@@ -79,4 +79,4 @@ IPlugView* PLUGIN_API StrainerController::createView (FIDString name)
 }
 
 //------------------------------------------------------------------------
-} // namespace vargason::jaredfilter
+} // namespace vargason::strainer

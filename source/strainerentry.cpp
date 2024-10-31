@@ -12,7 +12,7 @@
 #define stringPluginName "Strainer"
 
 using namespace Steinberg::Vst;
-using namespace vargason::jaredfilter;
+using namespace vargason::strainer;
 
 //------------------------------------------------------------------------
 //  VST Plug-in Entry

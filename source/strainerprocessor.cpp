@@ -10,7 +10,7 @@
 
 using namespace Steinberg;
 
-namespace vargason::jaredfilter {
+namespace vargason::strainer {
 //------------------------------------------------------------------------
 // StrainerProcessor
 //------------------------------------------------------------------------
@@ -174,4 +174,4 @@ tresult PLUGIN_API StrainerProcessor::getState (IBStream* state)
 }
 
 //------------------------------------------------------------------------
-} // namespace vargason::jaredfilter
+} // namespace vargason::strainer

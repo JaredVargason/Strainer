@@ -6,7 +6,7 @@
 
 #include "public.sdk/source/vst/vstaudioeffect.h"
 
-namespace vargason::jaredfilter {
+namespace vargason::strainer {
 
 //------------------------------------------------------------------------
 //  StrainerProcessor
@@ -54,4 +54,4 @@ protected:
 };
 
 //------------------------------------------------------------------------
-} // namespace vargason::jaredfilter
+} // namespace vargason::strainer
